@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "pvm:village",
+            "weight": 2147483647
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 2,
+        "separation": 1,
+        "salt": 1341482268
+    }
+}

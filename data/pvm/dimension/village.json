@@ -1,0 +1,36 @@
+{
+    "type":"minecraft:overworld",
+    "generator":{
+        "type":"minecraft:flat",
+        "settings":{
+            "structure_overrides":"pvm:village",
+            "layers":[
+                {
+                    "block":"minecraft:bedrock",
+                    "height":1
+                },
+                {
+                    "block":"minecraft:grass_block",
+                    "height":3
+                }
+            ],
+            "biome":"the_void",
+            "lakes":false,
+            "features":true,
+            "structures":{
+                "structures":{
+                    "village":{
+                        "spacing":2,
+                        "separation":1,
+                        "salt":10387312
+                    },
+                    "pillager_outpost":{
+                        "spacing":2,
+                        "separation":1,
+                        "salt":103873
+                    }
+                }
+            }
+        }
+    }
+}

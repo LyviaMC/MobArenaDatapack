@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "badlands",
+        "frozen_ocean",
+        "mushroom_fields",
+        "lush_caves",
+        "end_highlands",
+        "crimson_forest",
+        "warped_forest",
+        "deep_dark",
+        "frozen_river",
+        "jagged_peaks",
+        "ice_spikes",
+        "plains",
+        "the_void"
+    ]
+}

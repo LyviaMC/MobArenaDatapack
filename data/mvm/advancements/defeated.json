@@ -1,0 +1,17 @@
+{
+    "display":{
+        "icon": {
+            "item":"minecraft:player_head",
+            "nbt":"{SkullOwner:\"redstone3_in_mc\"}"
+        },
+        "frame":"task",
+        "title":{"color":"red","bold":true,"italic":true,"text":"DEFEATED"},
+        "description":{"color":"red","bold":true,"italic":true,"text":"YOU ARE DEFEATED!"}
+    },
+    "criteria": {
+        "defeated": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent":"mvm:mvm"
+}

@@ -1,0 +1,27 @@
+{
+    "type":"minecraft:overworld",
+    "generator":{
+        "type":"minecraft:noise",
+        "seed":0,
+        "settings":"minecraft:overworld",
+        "biome_source":{
+            "seed":0,
+            "type":"minecraft:checkerboard",
+            "biomes":[
+                "badlands",
+                "frozen_ocean",
+                "mushroom_fields",
+                "lush_caves",
+                "end_highlands",
+                "crimson_forest",
+                "warped_forest",
+                "deep_dark",
+                "frozen_river",
+                "jagged_peaks",
+                "ice_spikes",
+                "plains"
+            ],
+            "scale":1
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:player_head",
+            "nbt":"{SkullOwner:\"redstone3_in_mc\"}"
+        },
+        "frame":"task",
+        "background":"minecraft:textures/gui/advancements/backgrounds/adventure.png",
+        "title":{"color":"red","bold":true,"italic":true,"text":"MVM"},
+        "description":{"color":"red","bold":true,"italic":true,"text":"MOB VERSUS MOB"}
+    },
+    "criteria": {
+        "victory": {
+            "trigger":"minecraft:impossible"
+        }
+    }
+}

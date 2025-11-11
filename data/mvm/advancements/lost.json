@@ -1,0 +1,11 @@
+{
+    "criteria": {
+        "defeated": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent":"mvm:mvm",
+    "rewards": {
+        "function":"mvm:defeated"
+    }
+}

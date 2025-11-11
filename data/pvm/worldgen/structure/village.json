@@ -1,0 +1,115 @@
+{
+    "mineshaft_type": "mesa",
+    "biomes": "#pvm:checkerboard",
+    "type": "minecraft:mineshaft",
+    "terrain_adaptation": "beard_thin",
+    "step": "surface_structures",
+    "spawn_overrides": {
+        "creature":{
+            "bounding_box":"full",
+            "spawns": [
+                {
+                    "type": "villager",
+                    "weight": 90,
+                    "maxCount": 26,
+                    "minCount":10
+                },
+                {
+                    "type": "iron_golem",
+                    "weight": 20,
+                    "maxCount": 4,
+                    "minCount": 4
+                },
+                {
+                    "type":"ravager",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                },
+                {
+                    "type":"vindicator",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                },
+                {
+                    "type":"illusioner",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                },
+                {
+                    "type":"witch",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                },
+                {
+                    "type":"evoker",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                },
+                {
+                    "type":"pillager",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                }
+            ]
+        },
+        "monster":{
+            "bounding_box":"full",
+            "spawns": [
+                {
+                    "type": "villager",
+                    "weight": 90,
+                    "maxCount": 26,
+                    "minCount":10
+                },
+                {
+                    "type": "iron_golem",
+                    "weight": 20,
+                    "maxCount": 4,
+                    "minCount": 4
+                },
+                {
+                    "type":"ravager",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                },
+                {
+                    "type":"vindicator",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                },
+                {
+                    "type":"illusioner",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                },
+                {
+                    "type":"witch",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                },
+                {
+                    "type":"evoker",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                },
+                {
+                    "type":"pillager",
+                    "weight": 10,
+                    "maxCount": 2,
+                    "minCount": 2
+                }
+            ]
+        }
+    }
+}
