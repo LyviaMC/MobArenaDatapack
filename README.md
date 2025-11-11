@@ -3,6 +3,8 @@
 
 A datapack made by LyviaMC in 2022.
 
+(1.19.x is recommanded)
+
 Enjoy the scenery of illagers and iron golems fighting. 
 
 (At survival or spectator mode, you can join the fight, otherwise you can watch it)
