@@ -3,7 +3,7 @@
 
 A datapack made by LyviaMC in 2022.
 
-(1.19.x is recommanded)
+(1.19 - 1.19.3 is recommanded)
 
 Enjoy the scenery of illagers and iron golems fighting. 
 
